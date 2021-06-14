@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#G#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:arrow"
+        },
+        "G": {
+            "item": "minecraft:glow_ink_sac"
+        }
+    },
+    "result": {
+        "item": "minecraft:spectral_arrow",
+        "count": 8
+    },
+    "group": "spectral_arrow_recipes"
+}

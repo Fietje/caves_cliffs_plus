@@ -1,0 +1,29 @@
+clear @s
+item replace entity Fietje inventory.0 from block ~ ~3 ~-2 container.0
+item replace entity Fietje inventory.1 from block ~ ~3 ~-2 container.1
+item replace entity Fietje inventory.2 from block ~ ~3 ~-2 container.2
+item replace entity Fietje inventory.3 from block ~ ~3 ~-2 container.3
+item replace entity Fietje inventory.4 from block ~ ~3 ~-2 container.4
+item replace entity Fietje inventory.5 from block ~ ~3 ~-2 container.5
+item replace entity Fietje inventory.6 from block ~ ~3 ~-2 container.6
+item replace entity Fietje inventory.7 from block ~ ~3 ~-2 container.7
+item replace entity Fietje inventory.8 from block ~ ~3 ~-2 container.8
+item replace entity Fietje inventory.9 from block ~ ~3 ~-2 container.9
+item replace entity Fietje inventory.10 from block ~ ~3 ~-2 container.10
+item replace entity Fietje inventory.11 from block ~ ~3 ~-2 container.11
+item replace entity Fietje inventory.12 from block ~ ~3 ~-2 container.12
+item replace entity Fietje inventory.13 from block ~ ~3 ~-2 container.13
+item replace entity Fietje inventory.14 from block ~ ~3 ~-2 container.14
+item replace entity Fietje inventory.15 from block ~ ~3 ~-2 container.15
+item replace entity Fietje inventory.16 from block ~ ~3 ~-2 container.16
+item replace entity Fietje inventory.17 from block ~ ~3 ~-2 container.17
+item replace entity Fietje inventory.18 from block ~ ~3 ~-2 container.18
+item replace entity Fietje inventory.19 from block ~ ~3 ~-2 container.19
+item replace entity Fietje inventory.20 from block ~ ~3 ~-2 container.20
+item replace entity Fietje inventory.21 from block ~ ~3 ~-2 container.21
+item replace entity Fietje inventory.22 from block ~ ~3 ~-2 container.22
+item replace entity Fietje inventory.23 from block ~ ~3 ~-2 container.23
+item replace entity Fietje inventory.24 from block ~ ~3 ~-2 container.24
+item replace entity Fietje inventory.25 from block ~ ~3 ~-2 container.25
+item replace entity Fietje inventory.26 from block ~ ~3 ~-2 container.26
+scoreboard players add @s helper 1
